@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola! Soy Borja 👋🐧</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+Informática;Programador+desde+España+🇪🇸;Aprendiendo+algoritmos+y+software;Futuro+colaborador+open+source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1200&repeat=2&color=38BDAE&center=true&vCenter=true&width=500&lines=Ingeniero+Inform%C3%A1tico" />
 </p>
+
 
 ---
 
