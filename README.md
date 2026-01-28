@@ -1,38 +1,53 @@
+<h1 align="center">¡Hola! Soy Borja 👋🐧</h1>
 
-<h1 align="left">Hello! 👋🐧</h1>
-
-<p align="left">My name is Borja and I'm a programmer from Spain 🇪🇸</p>
-
-<hr>
-
-<h2 align="left">🧠 About me</h2>
-
-<p align="left">
-📚 I'm currently studying Computer Engineering at URJC, while building projects to improve my skills.<br>
-💡 Passionate about backend development, algorithms, and learning new technologies.<br>
-🚀 Looking for opportunities to contribute to open-source or collaborate on real-world projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+Informática;Programador+desde+España+🇪🇸;Aprendiendo+algoritmos+y+software;Futuro+colaborador+open+source" />
 </p>
 
-<hr>
+---
 
-<h2 align="left">🛠️ I code with</h2>
+🎓 Estudiante de Ingeniería Informática en la URJC<br>
+💡 Me gustan los algoritmos y el código de bajo nivel<br>
+🧪 Siempre creando proyectos para mejorar mis habilidades<br>
+🚀 Buscando oportunidades para colaborar en open-source y proyectos reales
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
+
+---
+
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
 </div>
 
-<hr>
+---
 
-<h2 align="left">📬 Connect with me</h2>
 
-<p align="left">
-  📧 borjagonzare@gmail.com <br>
-  <a href="https://www.linkedin.com/in/borja-gonz%C3%A1lez-rebollo-a8555b305/" target="_blank">🔗 LinkedIn</a>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bor-12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+
+<p align="center">
+  <a href="mailto:borjagonzare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/borja-gonz%C3%A1lez-rebollo-a8555b305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bor-12&style=flat-square&color=blue" />
 </p>
